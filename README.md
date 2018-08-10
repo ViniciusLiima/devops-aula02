@@ -2,5 +2,6 @@
 aula02
 
 Ator 1
-Ator 2
+Ator ABCD
 Ator 3
+Ator EFGH
