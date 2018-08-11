@@ -1,7 +1,7 @@
 # devops-aula02
 aula02
 
-# Ator 01
+# Ator 1
 # Ator ABCD
-# Ator 03
+# Ator 3
 # Ator EFGH
